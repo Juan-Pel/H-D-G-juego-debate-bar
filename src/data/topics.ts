@@ -4,7 +4,7 @@ export const TOPICS: string[] = [
   "La tortura está justificada si salva vidas inocentes",
   "Los países ricos deberían poder comprar territorio de países pobres",
   "La eugenesia podría mejorar la humanidad",
-  "Hitler hizo algunas cosas bien para Alemania",
+  "Hitler hizo las cosas bien para Alemania",
   "El colonialismo trajo beneficios a los países colonizados",
   "Algunas razas son genéticamente superiores en ciertos aspectos",
   "Los pobres son pobres porque quieren",
